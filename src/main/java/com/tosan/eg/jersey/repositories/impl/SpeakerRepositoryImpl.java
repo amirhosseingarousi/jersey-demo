@@ -1,6 +1,7 @@
-package com.tosan.eg.jersey.repositories;
+package com.tosan.eg.jersey.repositories.impl;
 
 import com.tosan.eg.jersey.models.Speaker;
+import com.tosan.eg.jersey.repositories.SpeakerRepository;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -2,7 +2,7 @@ package com.tosan.eg.jersey.resources;
 
 import com.tosan.eg.jersey.models.Speaker;
 import com.tosan.eg.jersey.repositories.SpeakerRepository;
-import com.tosan.eg.jersey.repositories.SpeakerRepositoryImpl;
+import com.tosan.eg.jersey.repositories.impl.SpeakerRepositoryImpl;
 
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
